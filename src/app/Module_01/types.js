@@ -1,0 +1,2 @@
+
+export const TYPE_FETCH_DATA = 'TYPE_FETCH_DATA';
